@@ -1,0 +1,60 @@
+body {
+    color: rgb(79, 72, 72); 
+}
+  
+main{
+    width: 730px;
+    margin: 100px auto 50px;
+    display: flex;
+    text-align: center;
+    background-image: url(Idiotwhite.jpg);
+}
+
+.section1{
+    background-color: rgb(249, 249, 249,0,2);
+    padding: 0 10px 10px 10px;
+    border-radius: 8px;
+}
+button{
+    height: 100px;
+    width: 100px;
+    font-size: 40px;
+    color: rgb(22, 22, 22);
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+}
+.section2{
+    background-color: rgb(249, 249, 249,0,2);
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 250px;
+    height: 400px;
+    padding: 0 20px;
+}
+.estadisticas{
+    border: 1px solid rgb(0, 0, 0);
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    background-color: white;
+    color: black; 
+
+}
+.estadistica img {
+    width: 30px;
+    height: 30px;
+}
+.valor-estadistica {
+    margin-left: 10px;
+}
+
+footer{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+  
